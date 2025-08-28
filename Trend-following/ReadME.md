@@ -13,7 +13,7 @@ This project demonstrates fetching historical cryptocurrency data, calculating E
 ---
 ## Installation\n",
 1. Clone the repository:
-git clone https://github.com/Aantonjoe12/EMA_Trend_Following
+git clone https://github.com/Aantonjoe12/EMA
 cd EMA_Trend_Following
 2. Install dependencies:
    pip install -r requirements.txt 
