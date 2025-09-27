@@ -8,10 +8,10 @@ This project demonstrates fetching historical cryptocurrency data, calculating E
 - Fetches live and historical BTC/USDT data using CCXT library
 - Calculates EMA using Pandas library
 - Generates **BUY / SELL / HOLD signals** based on trend-following logic
-- Backtests strategy performance on historical data\n",
+- Backtests strategy performance on historical data
 - Visualizes BTC price, EMA, and trade signals using Matplotlib library
 ---
-## Installation\n",
+## Installation
 1. Clone the repository:
 git clone https://github.com/Aantonjoe12/EMA
 cd EMA_Trend_Following
@@ -22,7 +22,7 @@ cd EMA_Trend_Following
    
 1. Run the Python script: python Trend_Following.py
     
-2. Or open the Jupyter Lab to run the code interactively: jupyter lab Trend_Following.ipynb
+2. Or open Jupyter Lab, to run the code interactively: jupyter lab Trend_Following.ipynb
 
 3. The bot will fetch BTC/USDT data, calculate EMA, generate signals, backtest the strategy, and plot results.
  
