@@ -1,4 +1,4 @@
-### Crypto EMA Trading Bot
+### Crypto EMA Alogrithmic Trading
     
 A Python bot that uses **Exponential Moving Average (EMA)** for BTC/USDT trend-following trading.
     
